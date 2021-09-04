@@ -1,0 +1,10 @@
+name: BeFriends
+version: '${version}'
+main: com.github.kamomesg.befriends.BeFriends
+api-version: 1.16
+authors: [ Seagulll ]
+commands:
+  befriends:
+    aliases: bf
+    description: エンティティと友達になれるよ
+    usage: "Usage: /<command>, /<command> <add/remove> <entity name OR group name>"
